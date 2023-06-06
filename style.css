@@ -1,6 +1,7 @@
 body {
 
     font-family: 'PT Sans Narrow', sans-serif;
+    margin: 0;
 }
 
 h1 {
@@ -36,5 +37,11 @@ section {
     background-image: linear-gradient(salmon, red);
     font-weight: 700;
     color: black;
+
+}
+
+.bi {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 
 }
