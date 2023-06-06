@@ -1,6 +1,36 @@
-body{
+body {
 
-font-family: 'PT Sans Narrow', sans-serif;}
-h1{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h1 {
     font-size: 60px;
+}
+
+span {
+    color: darkturquoise;
+}
+
+section {
+    display: flex;
+}
+
+.w {
+    width: 75%;
+    padding-left: 4%;
+
+}
+
+.w img {
+    width: 85%;
+}
+
+button {
+    color: black;
+    background-color: rgb(203, 252, 23);
+    border-radius: 10px;
+    width: 170px;
+    height: 50px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
 }
