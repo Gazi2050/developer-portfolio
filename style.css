@@ -14,10 +14,11 @@ span {
 
 section {
     display: flex;
+    margin-bottom: 15%;
 }
 
 .w {
-    width: 75%;
+    width: 50%;
     padding-left: 4%;
 
 }
@@ -44,4 +45,15 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
+}
+
+.g {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
+
+.f {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
