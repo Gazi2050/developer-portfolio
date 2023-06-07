@@ -12,7 +12,7 @@ span {
     color: darkturquoise;
 }
 
-section {
+.z {
     display: flex;
     margin-bottom: 15%;
 }
@@ -47,13 +47,46 @@ section {
 
 }
 
-.g {
-    background-image: url(images/dream-bg.png);
-    background-repeat: no-repeat;
-}
+
 
 .f {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.fc {
+    display: flex;
+    margin-bottom: 15%;
+    text-align: justify;
+}
+
+.k {
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 50px gray;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.i {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+#m {
+    border-left: 10px solid blue;
+
+}
+
+#n {
+    border-left: 10px solid red;
+}
+
+footer p {
+    text-align: center;
 }
